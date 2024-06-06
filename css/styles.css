@@ -606,7 +606,8 @@ p {
     background-color: #FFFFFF;
     border-radius: 10px;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-    padding: 40px;
+    padding: 40px 40px 40px 40px;
+    
     border-radius: 4px;
     width: 408px;
     height: 584px;
@@ -670,7 +671,7 @@ color: #2e2f42;
 
         border: 1px solid rgba(46, 47, 66, 0.4);
         border-radius: 4px;
-        width: 360px;
+    
         height: 40px;
         
         
@@ -696,12 +697,12 @@ color: #2e2f42;
         
     }
     .model-ladel{
-        display:inline-block ;
+    display:inline-block ;
     font-weight: 400;
-font-size: 12px;
-line-height: 1.16667;
-letter-spacing: 0.04em;
-color: #8e8f99;
+    font-size: 12px;
+    line-height: 1.16667;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
     }
     .model-field{
         margin-bottom: 18px;
