@@ -1060,9 +1060,8 @@ margin-left: 5px;
 }
 
 .container-subscribe {
-    max-width: 453px;
-    max-height: 80px;
-    margin-left: 90px;
+   
+    margin-left: auto;
 }
 .footer-parag-subscribe {
     font-weight: 500;
@@ -1113,9 +1112,7 @@ margin-left: 5px;
     padding: 8px 24px;
     min-width: 165px;
     height: 40px;
-    margin-left: 24px;
     background: #4d5ae5;
-  
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
